@@ -30,7 +30,7 @@ vps="blangkon";
 #if [[ $vps = "zvur" ]]; then
 	#source="http://"
 #else
-	source="https://raw.githubusercontent.com/mulzs/new"
+	source="https://raw.githubusercontent.com/Vpn-989/script"
 #fi
 
 # go to root
